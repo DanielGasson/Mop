@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <database vendor="">
+        <username>user</username>
+        <password>password</password>
+        <defaultSchema>schema</defaultSchema>
+    </database>
+    <playlist>
+        <current>
+            <id>2</id>
+            <name>default</name>
+        </current>
+    </playlist>
+    <settings/>
+</configuration>
